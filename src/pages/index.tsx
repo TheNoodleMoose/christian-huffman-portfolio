@@ -14,7 +14,7 @@ const Index = () => (
         <Hero />
         <Flex width='100%' alignItems='center' maxWidth='48rem' px='1rem'>
           <Text fontSize='1.3rem' fontWeight='bold'>
-            Frontend engineer, deeper thinker, problem solver, and lover of all
+            Frontend engineer, deep thinker, problem solver, and lover of all
             things JavaScript.
           </Text>
         </Flex>
@@ -93,16 +93,16 @@ const Index = () => (
               Skills
             </Text>
             <Text fontSize='1.2rem'>
-              I have over three years of professional experience working with
+              I have over four years of professional experience working with
               React, React Native, TypeScript, JavaScript, NextJS, Apollo,
               GraphQL, NodeJS, Jest, React Testing Library, and much more! I
               love keeping up with the latest developments in the frontend
               ecosystem and finding new and innovative ways to make apps better.
-              I'm planning to expand to fullstack and learn some Python and
-              Django! I also love to teach and mentor junior developers and have
-              a proven track record of helping others progress their frontend
-              development skills. Feel free to check out my GitHub and see what
-              I'm working on!
+              I'm continually moving towards the full stack space and actively
+              learning .NET Core. I also love to teach and mentor junior
+              developers and have a proven track record of helping others
+              progress their frontend development skills. Feel free to check out
+              my GitHub and see what I'm working on!
             </Text>
           </Box>
           <Button my='10'>
